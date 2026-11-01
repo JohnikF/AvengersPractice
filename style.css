@@ -86,3 +86,17 @@ body {
     width: 100%;
 }
 
+#actors {
+    min-height: 100vh;
+    background-image: linear-gradient(110deg, lightslategray, coral);
+}
+
+.actor-name {
+    background-color: black;
+    color: white;
+    font-size: 10px;
+    margin: 0;
+    padding: 10px 3px;
+    text-align: center;
+}
+
